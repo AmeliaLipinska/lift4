@@ -1,6 +1,6 @@
 ## Projekt: Symulator Windy (C++ + GDI+ / WinAPI)
 
-![Symulator windy](vid_lift.gif)
+![Symulator windy](wida_vid.gif)
 
 ## Opis
 Ten projekt to graficzny symulator windy napisany w języku C++ z użyciem biblioteki WinAPI oraz GDI+. Winda obsługuje piętra 1–5, zabiera i wysadza pasażerów zgodnie z ustalonymi zasadami działania.
